@@ -2,7 +2,7 @@
 
 The purpose of this cli tool is to streamline the process of setting folders for organizing information related to a support ticket. The application can be configured to create sets of folders organized by company name, product name, and ticket number.
 
-![folders created by vsmTicketFolder](https://github.com/rordaz/SupportTicketFolder/blob/7b033d452a133a3a1861a68a0027c09c075b26be/resources/svnTicketFolder_image_01.png)
+![folders created by vsmTicketFolder](resources/svnTicketFolder_image_01.png)
 
 This tool can also be used in other scenarios where organization, retrieval, easy access is desired. 
 
