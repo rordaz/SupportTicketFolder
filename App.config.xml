@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <add key="dirPathx" value="C:\\Users\\USER_NAME\\Location\\Tickets" />
+    <directory>
+      <add key="dirPath" value="C:\\Users\\USER_NAME\\Location\\Tickets" />
+    </directory>
+    <CommonFolders>
+      <add key="folder0" value="emails and attachments" />
+      <add key="folder2" value="screenshots" />
+      <add key="folder3" value="webex" />
+    </CommonFolders>
+    <SynthesisFolders>
+      <add key="folder0" value="patch" />
+    </SynthesisFolders>
+    <SchedulerFolders>
+      <add key="folder0" value="cases" />
+    </SchedulerFolders>
+  </appSettings>
+</configuration>
